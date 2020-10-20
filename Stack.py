@@ -1,7 +1,5 @@
 """
 # Project 4
-# Name:Sabrina Garcia
-# PID:A42006407
 """
 
 class Stack:
